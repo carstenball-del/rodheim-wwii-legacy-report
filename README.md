@@ -1,4 +1,33 @@
-# The Rodheim WWII Legacy: A Definitive Compilation
+305th-BG-Rodheim-Collection/
+├── README.md                          # Project overview, goals, provenance statement
+├── .github/                           # Issue templates, contribution guidelines
+├── Requests/                          # Copies of every NARA/SF-180 request you send
+│   ├── 2026-07-15_NARA_Mission_Reports_1943-11_to_1944-05.md
+│   └── ...
+├── Mission_Reports/
+│   ├── 1942/                          # Early missions (for completeness)
+│   ├── 1943/
+│   │   ├── 11_November/
+│   │   ├── 12_December/
+│   │   └── ...
+│   └── 1944/
+│       ├── 01_January/
+│       ├── ...
+│       └── 05_May/                    # Includes 11 May 1944 (MACR 4874)
+├── Loading_Lists_Crew_Assignments/
+│   └── (same date-based subfolders)
+├── Mission_Narratives_Summaries/
+├── Morning_Reports_Station_Logs/
+│   └── Chelveston_Station_105/
+├── Personnel_Rosters/
+├── POW_Records/                       # Link to the punch-card series you just shared (ARC 1263907)
+├── Photos_Artifacts/
+├── Research_Notes/
+│   ├── Timeline_305th_BG.md
+│   ├── 366th_BS_Specific.md
+│   └── Rodheim_Service_Timeline.md
+├── Sources_References/
+└── Final_Package/                     # Polished versions for museum/donation# The Rodheim WWII Legacy: A Definitive Compilation
 
 **1st Lt. Seymour Rodney Rodheim (Service Number: O-757851)**
 
