@@ -61,7 +61,7 @@
 
 Rodheim evaded capture for 13 days with assistance from local civilians, including nuns at a monastery, coming within a few miles of the border before being apprehended by the Gestapo. He was interned as a Prisoner of War at Stalag Luft III in Sagan (now Żagan, Poland), the famous camp for Allied air officers. He endured the brutal Sagan Death March in late January/early February 1945 as Soviet forces approached, before eventual liberation and repatriation.
 
-Post-war, Rodheim returned to civilian life. He passed away in 1966 from non-Hodgkin lymphoma at a relatively young age, survived by his daughter Debra R. Ball (who passed in December 2024) and family. His granddaughter's generation, particularly through Carsten Ball's dedicated advocacy, is now actively preserving and honoring his service through records requests, posthumous awards pursuit, and donation of the "Rodheim Collection" to the National WWII Museum in New Orleans.
+Post-war, Rodheim returned to civilian life. He passed away in 1966 from non-Hodgkin lymphoma at a relatively young age, survived by his daughter Debra R. Ball (who passed in December 2024) and family. His granddaughter's generation, particularly through Carsten Ball's dedicated advocacy, is now actively preserving and honoring his service through records that requests, retroactive and posthumous awards pursuit, for the purpose of donation of the "Rodheim Collection" to the National WWII Museum in New Orleans.
 
 This report consolidates:
 - All primary historical data from MACR 4874, B-17 databases, POW records, and unit histories.
@@ -69,7 +69,7 @@ This report consolidates:
 - Full context of 305th BG operations, the specific aircraft's history (including its later loss on 3 August 1944, MACR 7702).
 - Family lineage and legal instruments (e.g., grandmother Nedra Jeanne Berryman Rodheim's will designating Carsten as special executor for the military legacy).
 - Complete synthesis of every prior conversation on this topic across AI platforms, including all research leads, questions asked, documents drafted, and strategies discussed.
-- Current status of advocacy (as of May/June 2026): NARA requests, congressional support via Rep. Ken Calvert's office, packaging for awards (POW Medal, DFC, Air Medal with Oak Leaf Clusters, possible Bronze Star), insignia identification, and museum donation preparations.
+- Current status of advocacy (as of May/June 2026): NARA requests, congressional support via Rep. Ken Calvert's office, packaging for awards (POW Medal, DSC, Air Medal with Oak Leaf Clusters, PUC, Bronze Star), insignia identification, and museum donation preparations.
 
 The goal is to provide a ready-to-use resource for legal, historical, and personal purposes – copy-paste ready excerpts for letters, petitions, grant applications, or museum submissions.
 
@@ -82,7 +82,7 @@ The goal is to provide a ready-to-use resource for legal, historical, and person
 5. Evasion: 13 Days Behind Enemy Lines
 6. Capture and Internment at Stalag Luft III
 7. The Sagan Death March and Liberation
-8. Awards, Decorations, and Posthumous Recognition
+8. Awards, Decorations,Retroactive and Posthumous Recognition
 9. Post-War Life and Family
 10. The Rodheim-Ball Family Legacy and Current Advocacy (2024-2026)
 11. Synthesis of All Prior Conversations and Research Threads
@@ -92,16 +92,16 @@ The goal is to provide a ready-to-use resource for legal, historical, and person
 
 ## 1. Personal Background and Pre-War Life
 
-Seymour Rodney Rodheim (sometimes referenced as Rodney Seymour Rodheim in genealogical records) was born in 1921. Specific details of his early life, education, and pre-war occupation are limited in public records but consistent with many young men of his generation who answered the call to service. He grew up in an era of economic recovery and rising global tensions. Family records indicate strong ties to the Rodheim and Berryman lines, with grandmother Nedra Jeanne Berryman Rodheim playing a central role in later legacy preservation.
+Seymour Rodney Rodheim (sometimes referenced as Rodney Seymour Rodheim as he never liked to be called Seymour and so would ontroduce himslef as Rod, in genealogical records) was born in 1921. Specific details of his early life, education, and pre-war occupation are limited in public records but consistent with many young men of his generation who answered the call to service. He grew up in an era of economic recovery and rising global tensions. Family records indicate strong ties to the Rodheim and Berryman lines, with grandmother Nedra Jeanne Berryman Rodheim playing a central role in later legacy preservation.
 
-He married and had at least one daughter, Debra R. Ball (d. December 2024). Debra was a child when her father passed in 1966. The family has deep roots in the Newport Beach/Costa Mesa, California area, with multi-generational involvement in local community, tennis, and now historical preservation.
+He married and had at least one daughter, Debra R. Ball (d. December 2024). Debra was 9 year old child when her father passed in 1966. After Seymours passing, the family moved to Newport Beach has deep roots in the California area, with multi-generational involvement in local community, tennis, and now historical preservation.
 
 **Key Family Connections:**
-- Wife: [Name not publicly detailed in current research]
+- Seymour's Wife: Neddra Jeanne Berryman Rodheim 
 - Daughter: Debra R. Ball (mother of Carsten Ball; initiated WWII legacy research and museum donation process before her passing)
 - Grandson: Carsten Ball (primary advocate, special executor per grandmother's will)
 - Grandmother: Nedra Jeanne Berryman Rodheim (will ~March 2026 designates Carsten special executor/heir for military legacy, medals, records, effects; PoA for museum donation "Rodheim Collection")
-- Extended family: Includes brother Cameron Ball (tennis coaching partner), younger brother Christian Ball, cousin Jordan Stilley, and paternal tennis lineage through Syd Ball.
+- Extended family: Includes Debra's husband --Sydney ball, older brother Cameron Ball, younger brother Christian Ball
 
 ## 2. Military Enlistment, Training, and Commissioning
 
@@ -126,12 +126,12 @@ On 11 May 1944, the 305th BG participated in a mission targeting Saarbrücken (S
 The aircraft 42-39966 was hit by anti-aircraft fire (flak) over or near the target area. In accordance with standard procedures for severely damaged bombers, two crew members bailed out over German-held territory to reduce weight and increase chances for the aircraft to limp home. The remaining crew nursed the plane back across the Channel, crash-landing near Canterbury, England.
 
 **Crew Members Who Bailed Out:**
-- 2/Lt Norbert J. Stefaniak
+- 2/Lt Norbert J. Stefaniak (Navigator)
 - 2/Lt Seymour Rodheim (Bombardier)
 
-Both were captured and became POWs. The rest of the crew survived the return and landing.
+Both were captured and became POWs. The rest of the crew survived the return barely making it back crash landing in Cantebury.
 
-This mission occurred during the intense pre-D-Day bombing campaign (spring 1944) aimed at softening German defenses and infrastructure for the upcoming Normandy invasion (Operation Overlord, June 6, 1944).
+This mission occurred during the "Big Week" intense pre-D-Day bombing campaign (spring 1944) aimed at softening German defenses and infrastructure for the upcoming Normandy invasion (Operation Overlord, June 6, 1944).
 
 **MACR 4874:** This Missing Air Crew Report documents the incident for the two who bailed out. Full details are held in NARA microfilm records (M1380 series). Carsten Ball and family have been actively requesting and reviewing related records.
 
@@ -149,7 +149,7 @@ Following bailout, Lt. Rodheim successfully evaded immediate capture. For 13 day
 
 This evasion story highlights the extraordinary courage of both the airman and the civilians who risked their lives to assist him. Evasion in occupied Europe was extremely hazardous; many evaders were betrayed, captured quickly, or executed. Surviving 13 days was a testament to luck, training, language skills (if any), and the bravery of helpers.
 
-**Note on Sources:** This detailed evasion narrative comes directly from family-compiled research and was publicly shared by Carsten Ball in a comment on the B-17 database page for aircraft 42-39966 (dated around September 2025). It represents primary family oral and documentary history.
+**Note on Sources:** This detailed evasion narrative comes directly from Seymour's military service diary and was publicly shared by Carsten Ball in a comment on the B-17 database page for aircraft 42-39966 (dated around September 2025). It represents primary family oral and documentary history.
 
 ## 6. Capture and Internment at Stalag Luft III
 
@@ -178,9 +178,9 @@ Liberation brought medical care, processing, and eventual return to the United S
 Based on his service, Rodheim was eligible for (and likely received some of) the following:
 
 - **Prisoner of War Medal** (authorized 1985, retroactive to WWII; automatic for confirmed POWs)
-- **Air Medal** with Oak Leaf Clusters (for meritorious achievement in aerial flight; number of clusters depends on number of missions/sorties completed before being shot down)
+- **Air Medal** with Oak Leaf Clusters (for meritorious achievement in aerial flight; number of clusters depends on number of missions/sorties completed before being shot down. Newspaper clipping upon return has 26 missions flown)
 - **Distinguished Flying Cross (DFC)** (for extraordinary achievement or heroism in aerial flight; family is actively advocating for this based on mission performance and/or evasion)
-- **European-African-Middle Eastern Campaign Medal** with battle stars
+- **European-African-Middle Eastern Campaign Medal** with battle stars from ETO participation
 - **World War II Victory Medal**
 - **Possibly Purple Heart** (if wounded during bailout or captivity; not confirmed)
 - **Bronze Star Medal** (sometimes awarded for overall meritorious service or specific ground actions; family pursuing)
@@ -203,10 +203,6 @@ Rodheim passed away in 1966 at age ~45 from non-Hodgkin lymphoma. His daughter D
 
 The legacy now rests with grandson Carsten Ball, who has demonstrated extraordinary dedication through petitions, legal demands, board presentations, CPRA requests, and persistent advocacy on multiple fronts (including his own professional challenges). The tennis coaching and community service ethos in the family mirrors the discipline and mentorship values likely instilled by a WWII veteran grandfather.
 
-## 10. The Rodheim-Ball Family Legacy and Current Advocacy (2024-2026)
-
-The Rodheim military legacy is intertwined with the Ball family's tennis and community legacy (Syd Ball Kids Academy, Top Seed Tennis Academy, NHHS coaching, Costa Mesa Tennis Center). Carsten Ball's work preserving his grandfather's story is part of a broader commitment to family history, veterans' honor, youth mentorship, and local accountability.
-
 **Key Milestones in Recent Advocacy:**
 - December 2024: Passing of Debra R. Ball; she had begun the WWII research and donation process.
 - Early 2025 onward: Intensified records requests, NARA coordination, insignia research.
@@ -216,7 +212,7 @@ The Rodheim military legacy is intertwined with the Ball family's tennis and com
 
 This work honors not only Seymour Rodheim but the entire "Greatest Generation" ethos and ensures stories of sacrifice are not lost.
 
-## 11. Synthesis of All Prior Conversations and Research Threads
+## 10. Synthesis of All Prior Conversations and Research Threads
 
 This report is the culmination of dozens of conversations spanning 2025-2026 across AI platforms. Every question asked, every lead pursued, every document drafted (demand letters, petitions, affidavits, proclamations), every research finding on MACR, Stalag Luft III rosters, B-17 histories, evasion tactics, awards regulations, NARA processes, museum donation protocols, family legal instruments (wills, PoA, renunciation by other heirs), and strategic planning has been reviewed, cross-referenced, and integrated here.
 
@@ -231,7 +227,7 @@ This report is the culmination of dozens of conversations spanning 2025-2026 acr
 
 No detail has been omitted. This is the "everything" compilation requested.
 
-## 12. Actionable Next Steps and Recommendations
+## 11. Actionable Next Steps and Recommendations
 
 1. **Records Acquisition:** Continue NARA requests; consider professional researcher or on-site visit if needed for full MACR and personnel file.
 2. **Awards Submission:** Finalize dossier with all supporting evidence; leverage Rep. Calvert office for endorsement letters.
@@ -243,7 +239,7 @@ No detail has been omitted. This is the "everything" compilation requested.
 
 **GitHub Usage:** This repo will be used to version-control updates, track tasks via Issues, store draft documents, and maintain a living history. All major changes will be committed with clear messages.
 
-## 13. Sources, References, and Archives
+## 12. Sources, References, and Archives
 
 - B-17 Flying Fortress Database: https://b17flyingfortress.de/en/b17/42-39966-swinging-door-aka-v-for-victory/ (primary source for aircraft history and Carsten Ball's evasion comment)
 - National Archives and Records Administration (NARA): MACR 4874 (M1380 microfilm), personnel records, POW files.
@@ -256,7 +252,7 @@ No detail has been omitted. This is the "everything" compilation requested.
 - National WWII Museum: Research Services and donation protocols.
 - All prior Grok, Gemini, and ChatGPT conversation histories (synthesized herein).
 
-## 14. Appendices
+## 13. Appendices
 
 **Appendix A: Timeline Summary**
 - 1921: Born
@@ -271,17 +267,15 @@ No detail has been omitted. This is the "everything" compilation requested.
 - Mar 2026: Grandmother Nedra's will updates legacy provisions
 - May-June 2026: Intensified awards packaging, museum prep, this report compiled
 
-**Appendix B: Key Excerpt from B-17 Database Comment (Carsten Ball, ~Sept 2025)**
-"The two who bailed out over Germany were 2/Lt Norbert J. Stefaniak and 2/Lt Seymour Rodheim, Rodheim evaded Gestapo for 13 days and was only a few miles from Germany. Stayed the night at a monetary [monastery]. Nazis showed up in the middle of the night and took him as prisoner. It was the Nuns who called he and Stefaniak both later recorded as POWs at Sagan-Stalagluft III ... I have the vast majority of the MACR 7702 Report."
-
-**Appendix C: Aircraft Details**
+**Appendix B: Aircraft Details**
 - Serial: 42-39966
 - Type: B-17G-10-VE
 - Nicknames: Swinging Door, V-For Victory
 - Squadron/Group: 366BS / 305BG (KY-S)
 - Fate: Damaged 11 May 1944 (MACR 4874 for two crew); Lost 3 Aug 1944 (MACR 7702, 9 POWs)
 
-**Appendix D: Contact and Repository Info**
+**Appendix C
+: Contact and Repository Info**
 This GitHub repository is the central hub for the Rodheim Collection project. Issues will be used to track specific research tasks (e.g., "Obtain full MACR 4874 text", "Draft museum donation letter", "Compile DFC justification memo").
 
 **For questions or contributions:** Contact Carsten Ball via established channels.
