@@ -2,7 +2,7 @@
 
 **Status: TOP PINNED ITEM — Keep this chat and this file as the top ongoing work item under Pinned.**
 
-**Last checked:** 26 October 2026 (PDT)
+**Last checked:** 27 October 2026 (PDT)
 
 **Subject:** 1st Lt. Seymour Rodney Rodheim, O-757851, MACR 4874, 366th Bomb Squadron, 305th Bombardment Group, B-17 42-39966, 11 May 1944.
 
@@ -43,6 +43,23 @@ Append only newly verified facts with full provenance. Do **not** treat RAND / S
 - **Outlook (primary + archive):** Recent messages include Ancestry hints, VA surveys (addressed to Nedra Rodheim), and existing pinned drafts (12 Oct and 17 Oct 2026) titled “PINNED: Comprehensive Collection - 1st Lt. Seymour Rodney Rodheim…”. No new primary archival documents, employment records, or NARA transmissions naming him in RAND/SDC/Lockheed contexts.
 - **Open web / secondary sources:** No primary personnel, directory, payroll, or official employment record locating Seymour Rodney Rodheim (or clear variants) at RAND, System Development Division/Corporation, or Lockheed. Historical SDC/RAND organizational documents do not name him. Secondary POW transcription sites (e.g., Sons of Liberty Museum) restate known NARA POW data for Stalag Luft III without adding new primary facts. Employment remains **unestablished** pending primary evidence.
 - **GitHub repo:** Living single source of truth remains carstenball-del/rodheim-wwii-legacy-report (README, this file, Research_Notes, Final_Package, FULL_CHAT_SYNTHESIS_ALL_AIS.md). This update commits the 26 October 2026 check.
+
+## Newly Verified Primary Facts (appended 27 Oct 2026)
+
+Source images supplied by the family owner 24-25 Oct 2026; NARA links where catalogued. Full SSN and family contact details omitted.
+
+- MACR 4874 (NARA NAID 90970052, RG 92, M1380 fiche 01740), form dated 13 May 1944: lists Rodheim, Seymour, 2nd Lt, O-757851, as bombardier, 366th BS / 305th BG, AAF Sta 105, B-17G 42-39966, 11 May 1944. Aircraft returned and crash-landed near Canterbury; two officers (Stefaniak, navigator, and Rodheim) bailed out over Saarbrucken. Pilot 2nd Lt Harold E. Seewer's statement: bailout seen by S/Sgt Joseph L. Wakefield, no bail-out order given. NOK: father Nathan Rodheim, Los Angeles.
+- KU-763A card (NARA NAID 142686000, RG 242, box 361): parachuted 11 May 1944 about 1900, near Metz; captured; Dulag Luft 21 Jun 1944.
+- Draft registration (Fold3 628983347/628983348): born 3 Nov 1921, Chicago; registered 15 Feb 1942, Los Angeles; employer Paul Rodhe Health Club. Transcription via index; image to confirm.
+- WD AGO 53-98: departed US 1 Apr 1944, arrived England 3 Apr 1944; Purple Heart with 1st OLC (GO 5, 21 Jan 1946); no Air Medal or unit citation listed.
+- VA Rating Decision (Form 21-6796), 4 May 1966: EOD 23 Oct 1943, RAD 12 Mar 1946; died 2 Mar 1966 (lymphoma, non-service-connected); protected service-connected ratings for asthma, frozen-feet residuals and psychophysiological musculoskeletal reaction.
+- Correction: earlier index entries saying Drive returned zero files were wrong; Drive holds about 40 Rodheim-related items.
+- RAND / SDC / Lockheed: still no primary record naming him. Lockheed appears only as a 3-week riveting school at Burbank on Form 100 (training, not employment).
+
+### Family-held artifacts and owner statements (photographed; NOT award documents)
+- Ribbon bar in family effects: Air Medal ribbon with two bronze oak leaf clusters (owner photos, 24-25 Oct 2026). Owner states he received the Air Medal with two OLC. No general order or certificate yet; WD AGO 53-98 lists no Air Medal; 1945 newspaper clipping says Air Medal with one oak leaf cluster. Status: artifact observed, award unverified pending orders.
+- Owner position, recorded as such: he received the 305th BG Presidential/Distinguished Unit Citation for 11 Jan 1944 (unit award confirmed; individual entitlement depends on assignment; no unit roster yet), and was at Chelveston from 23 Oct 1943.
+- Camp: clipping says Stalag Luft III; owner says liberated at Moosburg (Stalag VII-A). No primary camp record yet.
 
 ## Repository Location
 GitHub: carstenball-del/rodheim-wwii-legacy-report  
