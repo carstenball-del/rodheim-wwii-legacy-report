@@ -2,7 +2,7 @@
 
 **Status: TOP PINNED ITEM — Keep this chat and this file as the top ongoing work item under Pinned.**
 
-**Last checked:** 27 October 2026 (PDT)
+**Last checked:** 2 November 2026 (PST)
 
 **Subject:** 1st Lt. Seymour Rodney Rodheim, O-757851, MACR 4874, 366th Bomb Squadron, 305th Bombardment Group, B-17 42-39966, 11 May 1944.
 
@@ -17,14 +17,14 @@ Append only newly verified facts with full provenance. Do **not** treat RAND / S
 - **RG 92, Entry A1 2109-B** (Missing Air Crew Reports)
 - Description (catalog): Year 1944; point of departure A A F Sta 105, A P O 557; location listed as Over Target Area, Merkwiller Oil Refinery, France (note: use original MACR frames for exact wording; do not treat catalog summary as primary narrative); serial 42-39966.
 - Microform: M1380, Fiche 01740.
-- Provenance of check: NARA Catalog live search and item page reviewed 26 October 2026. No new digitization or additional frames noted.
+- Provenance of check: NARA Catalog live search and item page reviewed 26 October 2026. No new digitization or additional frames noted. Reconfirmed via catalog search 2 November 2026; still the sole MACR hit.
 
 ### 2. KU-763A (Downed Allied Aircraft Report)
 - **NAID:** 142686000
 - **Catalog:** https://catalog.archives.gov/id/142686000
 - **RG 242**, Downed Allied Aircraft Reports, Box 361
 - Confirmed content from prior verified extraction (Research_Notes/2026-10-04): Dulag Luft card for Seymour Rodheim, Chicago, Ill., 2.Lt., O-757851; bailed out 11 May 1944; Gendarmerie Diedenhofen (Thionville) report.
-- Provenance of check: Catalog item reconfirmed 26 October 2026. No new sibling KU files or additional pages added to the public catalog record.
+- Provenance of check: Catalog item reconfirmed 26 October 2026. No new sibling KU files or additional pages added to the public catalog record. Reconfirmed 2 November 2026.
 
 ### 3. Related but distinct
 - E&E 2709 (NAID 5557325): Navigator 2nd Lt Norbert J. Stefaniak only. Not Rodheim.
@@ -60,6 +60,16 @@ Source images supplied by the family owner 24-25 Oct 2026; NARA links where cata
 - Ribbon bar in family effects: Air Medal ribbon with two bronze oak leaf clusters (owner photos, 24-25 Oct 2026). Owner states he received the Air Medal with two OLC. No general order or certificate yet; WD AGO 53-98 lists no Air Medal; 1945 newspaper clipping says Air Medal with one oak leaf cluster. Status: artifact observed, award unverified pending orders.
 - Owner position, recorded as such: he received the 305th BG Presidential/Distinguished Unit Citation for 11 Jan 1944 (unit award confirmed; individual entitlement depends on assignment; no unit roster yet), and was at Chelveston from 23 Oct 1943.
 - Camp: clipping says Stalag Luft III; owner says liberated at Moosburg (Stalag VII-A). No primary camp record yet.
+
+## Checks Performed 2 November 2026 — Newly Verified Facts
+
+**No newly verified primary facts** requiring append.
+
+- **NARA Catalog:** Live searches (2 Nov 2026) for “Seymour Rodheim”, “Seymour Rodney Rodheim”, “O-757851”, “MACR 4874”, and related terms returned only the previously known file units (MACR 4874 NAID 90970052 and KU-763A NAID 142686000). No additional name-level hits, new digitization, or sibling files noted in the public catalog. Web-indexed catalog results confirm the same two primary hits.
+- **Google Drive:** Search for “Rodheim” returned existing family advocacy documents, chronological summaries, legal briefings, MACR 7702 compilation, image scans of records, and a “Letter” modified 27 Oct 2026. No new primary archival documents, NARA transmissions, or employment records naming him at RAND/SDC/Lockheed.
+- **Outlook (primary + archive):** Messages since last check include Ancestry hint about Debra Jean Rodheim (31 Oct 2026), prior VA surveys, and existing pinned drafts (12 Oct and 17 Oct 2026). No new primary archival documents, employment records, or official correspondence naming him in RAND/SDC/Lockheed contexts.
+- **Open web / secondary sources:** No primary personnel, directory, payroll, or official employment record locating Seymour Rodney Rodheim (or clear variants) at RAND, System Development Division/Corporation, or Lockheed. Historical SDC/RAND organizational documents (Wikipedia, corporate overviews, archival finding aids) do not name him. Employment remains **unestablished** pending a primary record that explicitly names him.
+- **GitHub repo:** Living single source of truth remains carstenball-del/rodheim-wwii-legacy-report. This update commits the 2 November 2026 check.
 
 ## Repository Location
 GitHub: carstenball-del/rodheim-wwii-legacy-report  
