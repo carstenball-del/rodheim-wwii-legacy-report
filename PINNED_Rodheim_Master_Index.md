@@ -2,7 +2,7 @@
 
 **Status: TOP PINNED ITEM — Keep this chat and this file as the top ongoing work item under Pinned.**
 
-**Last checked:** 5 November 2026 (PST)
+**Last checked:** 7 November 2026 (PST)
 
 **Subject:** 1st Lt. Seymour Rodney Rodheim, O-757851, MACR 4874, 366th Bomb Squadron, 305th Bombardment Group, B-17 42-39966, 11 May 1944.
 
@@ -17,14 +17,14 @@ Append only newly verified facts with full provenance. Do **not** treat RAND / S
 - **RG 92, Entry A1 2109-B** (Missing Air Crew Reports)
 - Description (catalog): Year 1944; point of departure A A F Sta 105, A P O 557; location listed as Over Target Area, Merkwiller Oil Refinery, France (note: use original MACR frames for exact wording; do not treat catalog summary as primary narrative); serial 42-39966.
 - Microform: M1380, Fiche 01740.
-- Provenance of check: NARA Catalog live search and item page reviewed 26 October 2026. No new digitization or additional frames noted. Reconfirmed via catalog search 2 November 2026 and 5 November 2026; still the sole MACR hit.
+- Provenance of check: NARA Catalog live search and item page reviewed 26 October 2026. No new digitization or additional frames noted. Reconfirmed via catalog search 2 November 2026, 5 November 2026, and 7 November 2026; still the sole MACR hit.
 
 ### 2. KU-763A (Downed Allied Aircraft Report)
 - **NAID:** 142686000
 - **Catalog:** https://catalog.archives.gov/id/142686000
 - **RG 242**, Downed Allied Aircraft Reports, Box 361
 - Confirmed content from prior verified extraction (Research_Notes/2026-10-04): Dulag Luft card for Seymour Rodheim, Chicago, Ill., 2.Lt., O-757851; bailed out 11 May 1944; Gendarmerie Diedenhofen (Thionville) report.
-- Provenance of check: Catalog item reconfirmed 26 October 2026. No new sibling KU files or additional pages added to the public catalog record. Reconfirmed 2 November 2026 and 5 November 2026.
+- Provenance of check: Catalog item reconfirmed 26 October 2026. No new sibling KU files or additional pages added to the public catalog record. Reconfirmed 2 November 2026, 5 November 2026, and 7 November 2026.
 
 ### 3. Related but distinct
 - E&E 2709 (NAID 5557325): Navigator 2nd Lt Norbert J. Stefaniak only. Not Rodheim.
@@ -34,15 +34,17 @@ Append only newly verified facts with full provenance. Do **not** treat RAND / S
 - Confirmed details (Research_Notes/2026-09-04): O-757851, 1st Lt, DOB 3 Nov 1921, entry 16 Apr 1942, separation 12 Mar 1946 at AAFRS #4 Santa Ana, CA. Occupation narrative notes 2 combat missions / 18 combat hours, bailout at 28,000 ft over Saarbrücken, ~12-day evasion, ~12 months POW, liberated by Third Army.
 - Mission-count conflict with 1945 newspaper clipping (26 missions) and Air Medal oak-leaf clusters remains unresolved pending loading lists / morning reports / Air Medal orders.
 
-## Checks Performed 5 November 2026 — Newly Verified Facts
+## Checks Performed 7 November 2026 — Newly Verified Facts
 
 **No newly verified primary facts** requiring append.
 
-- **NARA Catalog:** Live searches (5 Nov 2026) for “Seymour Rodheim”, “Seymour Rodney Rodheim”, “O-757851”, “MACR 4874”, and related terms returned only the previously known file units (MACR 4874 NAID 90970052 and KU-763A NAID 142686000). No additional name-level hits, new digitization, or sibling files noted in the public catalog.
-- **Google Drive:** Search for “Rodheim” returned existing family advocacy documents, chronological summaries, legal briefings on Death March residuals/lymphoma, MACR 7702 compilation, image scans of records, and advocacy letters. No new primary archival documents, NARA transmissions, or employment records naming him at RAND/SDC/Lockheed.
-- **Outlook (primary + archive):** Messages include Ancestry hints (Debra Jean Rodheim, great-grandfather), VA surveys addressed to Nedra Rodheim, existing pinned drafts (12 Oct and 17 Oct 2026), threads with Mari Joanna Stilley (Sep 2026), Elias Sanford / Rep. Calvert (Sep 2026), and Kimberly Guise / National WWII Museum (Aug 2026). No new primary archival documents, employment records, or official correspondence naming him in RAND/SDC/Lockheed contexts.
+- **NARA Catalog:** Live searches (7 Nov 2026) for “Seymour Rodheim”, “Seymour Rodney Rodheim”, “O-757851”, “MACR 4874”, and related terms returned only the previously known file units (MACR 4874 NAID 90970052 and KU-763A NAID 142686000). No additional name-level hits, new digitization, or sibling files noted in the public catalog.
+- **Google Drive:** Search for “Rodheim Seymour OR O-757851 OR MACR 4874” returned existing family image scans of records (pages from prior holdings). No new primary archival documents, NARA transmissions, or employment records naming him at RAND/SDC/Lockheed.
 - **Open web / secondary sources:** No primary personnel, directory, payroll, or official employment record locating Seymour Rodney Rodheim (or clear variants) at RAND, System Development Division/Corporation, or Lockheed. Historical SDC/RAND organizational documents do not name him. Employment remains **unestablished** pending a primary record that explicitly names him. Lockheed link remains only the Vega-built B-17G 42-39966 and Form 100 riveting school training.
-- **GitHub repo:** Living single source of truth remains carstenball-del/rodheim-wwii-legacy-report. This update commits the 5 November 2026 check. Comprehensive collection file generated for local pinning.
+- **GitHub repo:** Living single source of truth remains carstenball-del/rodheim-wwii-legacy-report. This update commits the 7 November 2026 check. Comprehensive collection confirmed; this file remains the top pinned master index.
+
+## Previous Checks Summary (for continuity)
+- 5 November 2026: No new primary facts. Outlook and Drive searches confirmed no employment records.
 
 ## Repository Location
 GitHub: carstenball-del/rodheim-wwii-legacy-report  
